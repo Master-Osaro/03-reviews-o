@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Reviews Slider (React)
+
+[Live link](https://03-reviews-react-o.netlify.app/) 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
